@@ -2,6 +2,6 @@ package release
 
 import "fmt"
 
-func hello() {
+func Hello() {
     fmt.Println("Hello from Release!")
 }
